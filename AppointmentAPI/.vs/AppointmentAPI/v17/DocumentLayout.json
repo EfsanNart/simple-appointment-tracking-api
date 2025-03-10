@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\BTKC#101\\AppointmentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1592DCD5-9439-4916-9998-3E67111870D3}|AppointmentAPI\\AppointmentAPI.csproj|c:\\users\\user\\documents\\btkc#101\\appointmentapi\\appointmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1592DCD5-9439-4916-9998-3E67111870D3}|AppointmentAPI\\AppointmentAPI.csproj|solutionrelative:appointmentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1592DCD5-9439-4916-9998-3E67111870D3}|AppointmentAPI\\AppointmentAPI.csproj|c:\\users\\user\\documents\\btkc#101\\appointmentapi\\appointmentapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1592DCD5-9439-4916-9998-3E67111870D3}|AppointmentAPI\\AppointmentAPI.csproj|solutionrelative:appointmentapi\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1592DCD5-9439-4916-9998-3E67111870D3}|AppointmentAPI\\AppointmentAPI.csproj|c:\\users\\user\\documents\\btkc#101\\appointmentapi\\appointmentapi\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1592DCD5-9439-4916-9998-3E67111870D3}|AppointmentAPI\\AppointmentAPI.csproj|solutionrelative:appointmentapi\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1592DCD5-9439-4916-9998-3E67111870D3}|AppointmentAPI\\AppointmentAPI.csproj|c:\\users\\user\\documents\\btkc#101\\appointmentapi\\appointmentapi\\data\\dummydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1592DCD5-9439-4916-9998-3E67111870D3}|AppointmentAPI\\AppointmentAPI.csproj|solutionrelative:appointmentapi\\data\\dummydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1592DCD5-9439-4916-9998-3E67111870D3}|AppointmentAPI\\AppointmentAPI.csproj|c:\\users\\user\\documents\\btkc#101\\appointmentapi\\appointmentapi\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1592DCD5-9439-4916-9998-3E67111870D3}|AppointmentAPI\\AppointmentAPI.csproj|solutionrelative:appointmentapi\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\BTKC#101\\AppointmentAPI\\AppointmentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AppointmentAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Documents\\BTKC#101\\AppointmentAPI\\AppointmentAPI\\appsettings.json",
+              "RelativeToolTip": "AppointmentAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T11:01:02.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\BTKC#101\\AppointmentAPI\\AppointmentAPI\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "AppointmentAPI\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\BTKC#101\\AppointmentAPI\\AppointmentAPI\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "AppointmentAPI\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwDQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:03:38.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\BTKC#101\\AppointmentAPI\\AppointmentAPI\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "AppointmentAPI\\Services\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\BTKC#101\\AppointmentAPI\\AppointmentAPI\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "AppointmentAPI\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:47:51.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DummyData.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\BTKC#101\\AppointmentAPI\\AppointmentAPI\\Data\\DummyData.cs",
+              "RelativeDocumentMoniker": "AppointmentAPI\\Data\\DummyData.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\BTKC#101\\AppointmentAPI\\AppointmentAPI\\Data\\DummyData.cs",
+              "RelativeToolTip": "AppointmentAPI\\Data\\DummyData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T10:42:50.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\BTKC#101\\AppointmentAPI\\AppointmentAPI\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "AppointmentAPI\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\BTKC#101\\AppointmentAPI\\AppointmentAPI\\Models\\Appointment.cs",
+              "RelativeToolTip": "AppointmentAPI\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:04:53.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
