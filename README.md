@@ -25,7 +25,7 @@ A simple .NET Web API project for managing appointments. This API allows users t
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/AppointmentTrackingAPI.git
+git clone https://github.com/EfsanNart/simple-appointment-tracking-api.git
 cd AppointmentTrackingAPI
 ```
 
